@@ -1,16 +1,26 @@
-# **Assignment Title**  
+# **Factorial or SumBetween**  
 
 ## **Assignment Description**  
-
+Create a function called factOrSum() that returns either the factorial or sum between a given variable x and 0. A given variable o will determine if you return the factorial or the sum between.
 
 ## **Examples**  
->
+>factOrSum(4, "factorial")  
+24
+
+>factOrSum(10, "sum")  
+45
 
 ## **Limitations**  
+2 for loops  
+1 if  
+1 else  
+
 
 ## **Hints**  
+When calculating sum between, do not include x. When calculating factorial, include x.
 
 ## **Concepts**  
+Unit 1, Unit 2, for loops
 
 ---
 
